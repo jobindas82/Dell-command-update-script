@@ -1,2 +1,2 @@
 # DCU - Driver Installer
-This script can be user to download and automate Dell Driver pack installation.
+This script can be used to download and automate Dell Driver pack installation.
